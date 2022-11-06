@@ -3,7 +3,7 @@ import random
 
 
 ORIGIN = [0, 0, 0]
-FRACTAL_TYPES = ["Center cube", "Menger sponge", "Sierpinki pyramid"]
+FRACTAL_TYPES = ["Center cube", "Menger sponge", "Sierpinski pyramid"]
 
 
 def clear_viewport():
